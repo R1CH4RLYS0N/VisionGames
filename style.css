@@ -1,0 +1,88 @@
+body {
+color:white;
+background:black ;
+margin: 0px;
+font-family: "Chakra Petch", sans-serif;
+margin-bottom: 100px;
+}
+ 
+header {
+    border-bottom: solid 3px rgb(0, 162, 255);
+    padding: 20px;
+    font-size: 32px; 
+    color: aqua;
+}
+
+.chamada {
+background:rgb(117 120 124) ;
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+}
+
+.chamada-texto{
+    margin-right: 2.5%;
+}
+
+h1{
+    font-size: 40px;
+}
+
+p{
+font-size: 25px;
+}
+
+img{
+    height: 250px;
+}
+
+.Jogos-esperados{
+display: flex;
+overflow-x: auto;
+gap: 12px;
+}
+
+.lançamentos{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.Jogos-esperados img {
+opacity: 0.5;
+}
+
+.Jogos-esperados img:hover{
+opacity: 1.0;
+border: 3px solid rgb(0, 162, 255);
+}
+
+.lançamentos h2 {
+color: aqua;
+}
+
+.Jogos-famosos{
+    display: flex;
+    overflow-x: auto;
+    gap: 12px;
+    }
+    
+    .Xbox-360{
+        padding-left: 20px;
+        padding-right: 20px;
+        margin-top: 50px;
+    }
+    
+    .Jogos-famosos img {
+    opacity: 0.5;
+    }
+    
+    .Jogos-famosos img:hover{
+    opacity: 1.0;
+    border: 3px solid rgb(0, 162, 255);
+    }
+    
+    .Xbox-360 h2 {
+    color: aqua;
+    }
