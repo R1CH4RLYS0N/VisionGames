@@ -86,3 +86,22 @@ color: aqua;
     .Xbox-360 h2 {
     color: aqua;
     }
+
+.PS3{
+        padding-left: 20px;
+        padding-right: 20px;
+        margin-top: 50px;
+    }
+    
+    .Jogos-famosos img {
+    opacity: 0.5;
+    }
+    
+    .Jogos-famosos img:hover{
+    opacity: 1.0;
+    border: 3px solid rgb(0, 162, 255);
+    }
+    
+    .PS3 h2 {
+    color: aqua;
+    }
